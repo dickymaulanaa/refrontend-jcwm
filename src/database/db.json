@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "date": "1993-08-05T00:00:00.000Z",
+      "name": "kursi",
+      "serial": "11222",
+      "stock": 6,
+      "price": 600004,
+      "category": "furniture",
+      "id": 2
+    }
+  ]
+}
